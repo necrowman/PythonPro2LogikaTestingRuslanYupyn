@@ -19,10 +19,12 @@ PythonPro2LogikaTestingRuslanYupyn/
 
 ## Classes description
 
-```MenuScreen``` this is a class-extension for Screen kivy module class that contains description label about this project and 4 buttons below. Each of button shows their own screen with different dirrection transition style.
+```MenuScreen```: This class extends the Screen class from the Kivy module. It contains a descriptive label about this project and four buttons below. Each button shows its own screen with a different transition direction.
 
-```NextScreen``` this is also class-extension for next screen with customizable back dirrection to menu screen button. Also it contains label on the top that describu current screen.
+```NextScreen```: This class also extends the Screen class and includes a customizable back direction button to the menu screen. It contains a label at the top that describes the current screen.
 
-```TestApp``` this is a class-extension of App class that set root ScreenManager widget and screens those shoud managed by it.
+```TestApp```: This class extends the App class, sets the root ScreenManager widget, and manages the screens.
 
+## CHANGELOGS
 
+To see changelogs, follow this [link](./CHANGELOGS.md).
