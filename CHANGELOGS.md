@@ -1,11 +1,21 @@
 # CHANGELOGS
 
+## CHANGELOG 6
+
+### Author: Ruslan Yupyn <ryupyn@teamworkcommerce.com>
+### Date:   Mon Oct 28 13:19:20 2024 +0200
+
+- added CHANGELOGS.md file;
+- added link to CHANGELOGS.md file from README.md file;
+
+
 ## CHANGELOG 5
 
 ### Author: Ruslan Yupyn <ryupyn@teamworkcommerce.com>
 ### Date:   Mon Oct 28 13:08:19 2024 +0200
 
 - added README.md file;
+
 
 ## CHANGELOG 4
 
